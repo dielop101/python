@@ -16,7 +16,7 @@ for i in array:
 print(text[:-2])
 
 #while loop
-numIterations = 3
+numIterations = 3 
 while(0 < numIterations):
     print(numIterations)
     numIterations-= 1
